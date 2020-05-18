@@ -1,0 +1,25 @@
+{
+  "name": "cis-mssql",
+  "version": "1.0.1",
+  "description": "Dome9 MS SQL Benchmark Tests in JavaScript",
+  "main": "cis-mssql.js",
+  "dependencies": {
+    "asyncawait": "^1.0.6",
+    "mssql": "^4.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Dome9/cis-mssql"
+  },
+  "keywords": [
+    "cis",
+    "mssql",
+    "sql"
+  ],
+  "author": "Dome9",
+  "license": "BSD-3-Clause"
+}
